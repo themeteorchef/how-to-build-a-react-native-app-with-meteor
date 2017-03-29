@@ -1,4 +1,4 @@
-#### Tutorial: How to Build a React Native app, with Meteor
+#### Tutorial: Build a React Native app, with Meteor
 
 Description of this tutorial goes here. Used in your tutorial repo's README.md file.
 
