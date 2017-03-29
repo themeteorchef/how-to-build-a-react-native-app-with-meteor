@@ -1,4 +1,4 @@
-#### Tutorial: How to Build a Simple React Native app
+#### Tutorial: How to Build a Simple React Native App
 
 Description of this tutorial goes here. Used in your tutorial repo's README.md file.
 
