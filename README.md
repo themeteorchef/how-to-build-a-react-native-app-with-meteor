@@ -1,6 +1,6 @@
 #### Tutorial: How to Build a Simple React Native App
 
-React Native is a JavaScript framework which enables you to create high-quality iOS and Android apps. It is already used in production by Facebook, Instagram, Wix and AirBnB. If you want to create killer Android and iOS apps, in a short amount of time, this is the framework to use.
+Description of this tutorial goes here. Used in your tutorial repo's README.md file.
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/how-to-build-a-react-native-app-with-meteor)  
 
