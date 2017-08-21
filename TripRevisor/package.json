@@ -9,8 +9,8 @@
   "dependencies": {
     "react": "15.4.2",
     "react-native": "0.42.3",
-    "react-native-meteor": "^1.0.3",
-    "react-navigation": "^1.0.0-beta.7"
+    "react-native-meteor": "1.0.3",
+    "react-navigation": "1.0.0-beta.7"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",
